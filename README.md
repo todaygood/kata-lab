@@ -1,2 +1,0 @@
-# kata-lab
-study kata
